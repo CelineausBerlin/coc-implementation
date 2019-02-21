@@ -1,7 +1,7 @@
-STEP 0: Here are some questions that you will need to answer when preparing our event:
+## STEP 0: Here are some questions that you will need to answer when preparing our event:
 
 
-A) Before the event:
+# A) Before the event:
 
 1. Under which Code of Conduct ("CoC") are we running our event? The Berlin Code of Conduct perhaps? 
 2. Who will be responsible for the enforcement on location? Who's is our "Code of Conduct Team"?
@@ -15,7 +15,7 @@ A) Before the event:
 This is a lot , I know. I promise the rewards will be great though!
 
 
-B) During and after the conference, including outside the regular schedule (e.g. dinner time between conference days).
+# B) During and after the conference, including outside the regular schedule (e.g. dinner time between conference days).
 
 1. Who is around and available of the CoC committee?
 2. How can CoC committee members prepare for questions and negative reactions about the CoC during the event?
