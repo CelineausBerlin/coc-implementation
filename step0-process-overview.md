@@ -12,7 +12,8 @@
 6. How do we make sure severe "offenders" are *kept out of the way*?
 7. How do we make sure the targeted *people are still ok* after something happened?
 
-This is a lot , I know. I promise the rewards will be great though!
+This is a lot , I know. I promise the rewards will be great though! :sweat_smile:
+//may remove emoji later
 
 
 # B) During and after the conference, including outside the regular schedule (e.g. dinner time between conference days)
