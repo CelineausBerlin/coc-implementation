@@ -1,4 +1,4 @@
-## STEP 0: Here are some questions that you will need to answer when preparing our event:
+## STEP 0: Here are some questions that we will need to answer when preparing our event:
 
 
 # A) Before the event:
