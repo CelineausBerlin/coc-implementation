@@ -6,14 +6,16 @@ What is "adequate"? The Code of Conduct team, who will enforce the CoC, can get 
 - Within what timeframe do we want to take action?
 - Who will take care of the issue?
 
-Major incidents: 
+Incidents come in various forms and degrees of severity:
+
+*Major incidents:*
 insults, stalking, unwanted physical contact, sexual harassment, physical abuse
 
-Minor incidents: 
+*Minor incidents:* 
 sexual imagery, descriptors that refer to personal attributes such as race, gender, sexual orientation, disability or age for example, that tend to overemphasize and draw undue attention to the distinguishing attribute unless they are valid and important for the context.
 
 
-So, here are some recurring issues in no particular order:
+So, here are some recurring issues, in no particular order:
 
 - Sexual/suggestive content/imagery on a speaker's outfit:
 *What can we do?* Let the speaker put on a neutral/volunteer/staff T-shirt on top of theirs.
