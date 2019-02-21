@@ -3,7 +3,7 @@
 
 # A) Before the event
 
-1. Under which Code of Conduct ("CoC") are we running our event? The Berlin Code of Conduct perhaps? 
+1. Under which Code of Conduct ("CoC") are we running our event? The [Berlin Code of Conduct](http://berlincodeofconduct.org) perhaps? 
 2. Who will be responsible for the enforcement on location? Who's is our "Code of Conduct Team"?
 2. How do we make sure speakers and attendees know that we expect them to behave according to that Code of Conduct?
 3. How do we help speakers avoid typical pitfalls and provide welcoming presentations?
