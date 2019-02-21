@@ -12,7 +12,7 @@ This Code of Conduct outlines our expectations for all those who participate in 
 as well as the consequences for unacceptable behavior.
 We invite all those who participate in our events to help us create safe and positive experiences for everyone."
 
-You can find the Berlin CoC [here](http://berlincodeofconduct.org)
+You can find the Berlin Code of Conduct [here](http://berlincodeofconduct.org)
 
 It turns out what feels neutral to someone can be threatening or hurtful and inappropriate for another 
 with a different background. Agreeing to such rules upfront brings the crowd on board, so the event is enjoyable 
