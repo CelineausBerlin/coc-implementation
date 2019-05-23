@@ -1,5 +1,5 @@
 These are practices that proved effective in setting the tone for an event, welcoming a more diverse crowd 
-and make it feel like a true community gathering:
+and making it feel like a true community gathering:
 
 # Making sure no one can miss our Code of Conduct.
 From the very first contact for potential participants (e.g. landing page on the website), 
