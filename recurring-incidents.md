@@ -45,7 +45,7 @@ So, here are some recurring issues, in no particular order:
 *What can we do?* Talk to the offender and give them a warning.
 *When?* Within 2 hours.
 
-- Denying white cis-gendered male privilege/Denying the existence of systemic inequality:
+- Denying white cishet male privilege/Denying the existence of systemic inequality:
 *What can we do?* Talk to the offender and give them a warning.
 *When?* Within 2 hours.
 
