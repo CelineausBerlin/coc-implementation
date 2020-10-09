@@ -86,7 +86,7 @@ So, here are some recurring issues, in no particular order:
 *When?* Immediately after report.
 
 - Misgendering someone:
-*What can we do?* Talk to the offender, ask them to apologize and explain they need to use people's chosen pronouns as soon as they are known.
+*What can we do?* Talk to the offender and explain they need to use people's chosen pronouns as soon as they are known.
 *When?* Within 5 hours.
 
 - Using “guys” and “he” as a default when talking about programmers:
